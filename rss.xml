@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Сайт @ml_underhood]]></title>
+        <description><![CDATA[Коллективный твиттер аккаунт machine learning инженеров]]></description>
+        <link>http://http://ml-underhood.fit/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 02 Oct 2017 22:20:20 GMT</lastBuildDate>
+        <atom:link href="http://http://ml-underhood.fit/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <managingEditor><![CDATA[ihor@kroosh.me (Ihor Kroosh)]]></managingEditor>
+        <webMaster><![CDATA[ihor@kroosh.me (Ihor Kroosh)]]></webMaster>
+        <category><![CDATA[twitter]]></category>
+    </channel>
+</rss>
