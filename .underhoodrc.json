@@ -1,0 +1,26 @@
+{
+  "underhood": "ml_underhood",
+  "underhoodDesc": "Коллективный твиттер аккаунт machine learning инженеров",
+  "underhoodSite": "http://ml-underhood.fit",
+  "githubUser": "tilast",
+  "githubRepo": "ml-underhood",
+  "curatorEmail": "ihor@kroosh.me",
+  "curatorTwitter": "ikroosh",
+  "creatorTwitter": "ikroosh",
+  "gauges": "56742cb6c88d9046da0016f5",
+  "googleAnalytics": "UA-53249825-2",
+  "yandexMetric": "",
+  "creatorCreds": "ihor@kroosh.me (Ihor Kroosh)",
+  "underhoodVersion": "0.1.2",
+  "site": {
+    "title": "Сайт @ml_underhood",
+    "description": "Коллективный твиттер аккаунт machine learning инженеров",
+    "feed_url": "http://http://ml-underhood.fit/rss.xml",
+    "site_url": "http://http://ml-underhood.fit/",
+    "managingEditor": "ihor@kroosh.me (Ihor Kroosh)",
+    "webMaster": "ihor@kroosh.me (Ihor Kroosh)",
+    "copyright": "MIT",
+    "language": "ru",
+    "categories": ["twitter"]
+  }
+}
